@@ -1,0 +1,13 @@
+{
+    "domain": "emby",
+    "name": "Emby",
+    "documentation": "https://github.com/Timman70/emby-media-component",
+    "dependencies": [],
+    "codeowners": [
+        "@Timman70"
+    ],
+    "version": "1.0.0",
+    "config_flow": true,
+    "requirements": [],
+    "author": "timcloud"
+}
